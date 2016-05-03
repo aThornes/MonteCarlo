@@ -1,0 +1,19 @@
+\\data.adir.hull.ac.uk\home4\488\488610\visual studio 2013\Projects\RandomWalk\RandomWalk\bin\Debug\RandomWalk.exe.config
+G:\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.exe.config
+G:\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.exe
+G:\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.pdb
+G:\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.csprojResolveAssemblyReference.cache
+G:\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.exe
+G:\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.pdb
+\\data.adir.hull.ac.uk\home4\488\488610\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.exe.config
+\\data.adir.hull.ac.uk\home4\488\488610\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.exe
+\\data.adir.hull.ac.uk\home4\488\488610\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.pdb
+\\data.adir.hull.ac.uk\home4\488\488610\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.exe
+\\data.adir.hull.ac.uk\home4\488\488610\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.pdb
+\\data.adir.hull.ac.uk\home4\488\488610\Y2 S2 LABS\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.csprojResolveAssemblyReference.cache
+F:\Development\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.exe.config
+F:\Development\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.exe
+F:\Development\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.pdb
+F:\Development\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.exe
+F:\Development\Monte Carlo\C# Files\RandomWalk\bin\Debug\RandomWalk.pdb
+F:\Development\Monte Carlo\C# Files\RandomWalk\obj\Debug\RandomWalk.csprojResolveAssemblyReference.cache

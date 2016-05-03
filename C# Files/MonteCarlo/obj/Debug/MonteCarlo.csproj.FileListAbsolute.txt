@@ -1,0 +1,16 @@
+\\data.adir.hull.ac.uk\home4\488\488610\visual studio 2013\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+G:\Y2 S2 LABS\Monte Carlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+G:\Y2 S2 LABS\Monte Carlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+G:\Y2 S2 LABS\Monte Carlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+G:\Y2 S2 LABS\Monte Carlo\MonteCarlo\obj\Debug\MonteCarlo.csprojResolveAssemblyReference.cache
+G:\Y2 S2 LABS\Monte Carlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+G:\Y2 S2 LABS\Monte Carlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+G:\Y2 S2 LABS\Monte Carlo\C# Files\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+G:\Y2 S2 LABS\Monte Carlo\C# Files\MonteCarlo\obj\Debug\MonteCarlo.exe
+G:\Y2 S2 LABS\Monte Carlo\C# Files\MonteCarlo\obj\Debug\MonteCarlo.pdb
+G:\Y2 S2 LABS\Monte Carlo\C# Files\MonteCarlo\bin\Debug\MonteCarlo.exe
+G:\Y2 S2 LABS\Monte Carlo\C# Files\MonteCarlo\bin\Debug\MonteCarlo.pdb
+G:\Y2 S2 LABS\Monte Carlo\C# Files\MonteCarlo\obj\Debug\MonteCarlo.csprojResolveAssemblyReference.cache
+F:\Development\Monte Carlo\C# Files\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+F:\Development\Monte Carlo\C# Files\MonteCarlo\obj\Debug\MonteCarlo.exe
+F:\Development\Monte Carlo\C# Files\MonteCarlo\obj\Debug\MonteCarlo.pdb
